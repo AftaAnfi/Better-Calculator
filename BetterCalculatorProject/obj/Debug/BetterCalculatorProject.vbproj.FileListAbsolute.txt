@@ -1,0 +1,11 @@
+C:\Users\aftanom\Documents\GitHubRepos\BetterCalculator\Better-Calculator\BetterCalculatorProject\bin\Debug\BetterCalculatorProject.exe.config
+C:\Users\aftanom\Documents\GitHubRepos\BetterCalculator\Better-Calculator\BetterCalculatorProject\bin\Debug\BetterCalculatorProject.exe
+C:\Users\aftanom\Documents\GitHubRepos\BetterCalculator\Better-Calculator\BetterCalculatorProject\bin\Debug\BetterCalculatorProject.pdb
+C:\Users\aftanom\Documents\GitHubRepos\BetterCalculator\Better-Calculator\BetterCalculatorProject\bin\Debug\BetterCalculatorProject.xml
+C:\Users\aftanom\Documents\GitHubRepos\BetterCalculator\Better-Calculator\BetterCalculatorProject\obj\Debug\BetterCalculatorProject.vbprojAssemblyReference.cache
+C:\Users\aftanom\Documents\GitHubRepos\BetterCalculator\Better-Calculator\BetterCalculatorProject\obj\Debug\BetterCalculatorProject.Resources.resources
+C:\Users\aftanom\Documents\GitHubRepos\BetterCalculator\Better-Calculator\BetterCalculatorProject\obj\Debug\BetterCalculatorProject.vbproj.GenerateResource.cache
+C:\Users\aftanom\Documents\GitHubRepos\BetterCalculator\Better-Calculator\BetterCalculatorProject\obj\Debug\BetterCalculatorProject.vbproj.CoreCompileInputs.cache
+C:\Users\aftanom\Documents\GitHubRepos\BetterCalculator\Better-Calculator\BetterCalculatorProject\obj\Debug\BetterCalculatorProject.exe
+C:\Users\aftanom\Documents\GitHubRepos\BetterCalculator\Better-Calculator\BetterCalculatorProject\obj\Debug\BetterCalculatorProject.xml
+C:\Users\aftanom\Documents\GitHubRepos\BetterCalculator\Better-Calculator\BetterCalculatorProject\obj\Debug\BetterCalculatorProject.pdb
