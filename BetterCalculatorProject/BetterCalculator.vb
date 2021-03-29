@@ -8,7 +8,6 @@ Option Strict On
 'https://github.com/AftaAnfi/Better-Calculator.git
 
 Module BetterCalculator
-
     Dim readInputString As String
     Dim readInputInteger As Integer
     Dim problem As Boolean = True
@@ -17,18 +16,16 @@ Module BetterCalculator
     Dim programloop As Boolean = True
     Dim problem2 As Boolean = True
 
-
     Sub Main()
-
         While programloop
 
             Console.WriteLine("Please enter two numbers. Enter Q at any time to quit.")
+
             Do While problem
 
                 'choose number 1
                 Console.WriteLine("Choose a number:")
                 readInputString = Console.ReadLine()
-
                 Try
 
                     If readInputString = "q" Or readInputString = "Q" Then
@@ -39,10 +36,8 @@ Module BetterCalculator
                         End
                     End If
 
-
                     readInputInteger = CInt(readInputString)
                     problem = False
-
                     Console.WriteLine($"You entered {readInputString}")
                 Catch ex As Exception
                     'if not an input number
@@ -50,6 +45,7 @@ Module BetterCalculator
                     problem = True
                 End Try
             Loop
+
             problem = True
             firstnumber = readInputInteger
 
@@ -60,6 +56,7 @@ Module BetterCalculator
                 readInputString = Console.ReadLine()
 
                 Try
+
                     If readInputString = "q" Or readInputString = "Q" Then
                         Console.WriteLine($"You entered {readInputString}")
                         Console.WriteLine("Have a nice day!")
@@ -68,10 +65,8 @@ Module BetterCalculator
                         End
                     End If
 
-
                     readInputInteger = CInt(readInputString)
                     problem = False
-
                     Console.WriteLine($"You entered {readInputString}")
                 Catch ex As Exception
                     'if not an input number
@@ -79,10 +74,9 @@ Module BetterCalculator
                     problem = True
                 End Try
             Loop
+
             problem = True
             secondnumber = readInputInteger
-
-
 
             Do While problem
                 Console.WriteLine("Choose one of the following options:")
@@ -111,18 +105,14 @@ Module BetterCalculator
                         problem = True
                 End Select
             Loop
+
             problem = True
+
             'pick what to do with numbers
-
-
             Console.WriteLine("Press enter to continue...")
             Console.ReadLine()
 
-
-
         End While
-
-
 
     End Sub
 
